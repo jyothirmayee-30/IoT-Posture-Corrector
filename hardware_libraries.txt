@@ -1,0 +1,4 @@
+1. M5Atom (by M5Stack)
+2. FastLED (by Daniel Garcia) - For built-in RGB LED
+3. Adafruit MPU6050 (by Adafruit)
+4. ArduinoJson (by Benoit Blanchon)
